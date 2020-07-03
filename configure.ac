@@ -25,7 +25,7 @@ AC_CONFIG_SRCDIR(configure.ac)
 
 # Do some generic initialization work.
 
-AC_COIN_INITIALIZE(Miplib3)
+AC_COIN_INITIALIZE
 
 # Check for libz. The hidden assumption is that if libz is present, code will
 # use it to read compressed (.gz) files. If it's not present, or disabled with
