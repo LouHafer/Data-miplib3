@@ -9,8 +9,7 @@
 #                       Names and other basic things                        #
 #############################################################################
 
-AC_INIT([Miplib3],[devel],[buildtools@list.coin-or.org],[coin-or-miplib3],
-	[https://github.com/coin-or-tools/Data-miplib3])
+AC_INIT([Miplib3],[trunk],[https://github.com/coin-or-tools/Data-miplib3/issues/new],[coin-or-miplib3],[https://github.com/coin-or-tools/Data-miplib3])
 
 AC_COPYRIGHT([
 Copyright 2006 International Business Machines and others.
