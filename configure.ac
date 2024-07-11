@@ -2,14 +2,13 @@
 # All Rights Reserved.
 # This file is distributed under the Eclipse Public License.
 
-
 # Author:  Andreas Waechter            IBM    2006-04-13
 
 #############################################################################
 #                       Names and other basic things                        #
 #############################################################################
 
-AC_INIT([Miplib3],[trunk],[https://github.com/coin-or-tools/Data-miplib3/issues/new],[coin-or-miplib3],[https://github.com/coin-or-tools/Data-miplib3])
+AC_INIT([Miplib3],[1.3.0],[https://github.com/coin-or-tools/Data-miplib3/issues/new],[coin-or-miplib3],[https://github.com/coin-or-tools/Data-miplib3])
 
 AC_COPYRIGHT([
 Copyright 2006 International Business Machines and others.
